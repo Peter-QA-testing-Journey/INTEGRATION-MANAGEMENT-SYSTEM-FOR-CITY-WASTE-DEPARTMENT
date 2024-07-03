@@ -8,7 +8,7 @@ The focus is on API testing using Postman and JSON server mock data.
 
 ### User Stories in ScrumDesk
 - Specific requirements and features needed for the system: 
-  [SCRUMDESK - STORY MAP](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/main/MY%20USER%20STORIES.png)
+  [SCRUMDESK - STORY MAP](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/b0dd3d496abdbf8711f54900598f0d14c9215c82/MY%20USER%20STORIES.png)
 
 - Chosen specific USER STORY:
   [SCRUMDESK - CHOSEN USER STORY in DETAILED](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/main/USER%20STORY%20-%20LOCATION%20OF%20CONTAINERS.png)
