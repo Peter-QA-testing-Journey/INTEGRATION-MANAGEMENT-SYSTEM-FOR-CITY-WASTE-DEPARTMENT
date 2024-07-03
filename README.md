@@ -20,12 +20,12 @@ The focus is on API testing using Postman and JSON server mock data.
 ### Test Case
 - Detailed test case validating the functionality of the system for this specific user story.
 - API for Location of Containers has been tested here:
-  [TEST CASE VIEW](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/main/KANBAN%20BOARD%20AND%20TEST%20API%20IN%20DONE.png)
+  [TEST CASE VIEW](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/main/TEST_CASE%20API.png)
 
 ### Bug Report
 - Documentation of a discovered bug and its impact on the system.
 - Bug has been found here - during the testing of API for Location of Containers.
-  [BUG REPORT VIEW](#) (Update with actual link)
+  [BUG REPORT VIEW](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/a41ca9b33226e4b31c4b3077988d93438caf57f2/BUG_REPORT%20API.png) 
 
 ### Integration and Management of Containers
 - Simulated project focused on integrating and managing containers and other system components for a city waste department.
