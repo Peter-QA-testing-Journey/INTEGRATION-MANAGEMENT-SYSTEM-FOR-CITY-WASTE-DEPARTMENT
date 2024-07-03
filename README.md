@@ -24,7 +24,7 @@ https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CI
 
 
 ### Kanban View: Task - Test API Endpoints SAVED IN POSTMAN COLLECTION
-KANBAN BOARD AND TEST API IN DONE.png
+[Kanban Board and Test API in Done](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/00e0392d00e7de8101fbf657c8ae9be461ff194c/KANBAN%20BOARD%20AND%20TEST%20API%20IN%20DONE.png)
 
 ## Postman Collection
 Download the Postman collection and mock data for testing:
