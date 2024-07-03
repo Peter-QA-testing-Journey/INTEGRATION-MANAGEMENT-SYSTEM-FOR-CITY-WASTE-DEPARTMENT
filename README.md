@@ -1,5 +1,5 @@
 ## Project Overview
-This project demonstrates simulation of development and testing of Integration Management System for the City Waste Department. 
+This project demonstrates simulation of development and testing of WASTE MANAGEMENT SYSTEM FOR CITY BANSKA STIAVNICA. 
 For example a Location of Containers.
 The focus is on Creating User stories, Tasks, in general Agile "evolution".
 Inside this "Agile World" I have focused on API testing using Postman and JSON server mock data.
