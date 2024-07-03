@@ -14,10 +14,12 @@ https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CI
 
 ## User Stories and Tasks
 ### User Story: Location of Containers
-MY USER STORIES.png
+[MY USER STORIES.png
+](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/main/MY%20USER%20STORIES.png)
+
 
 ## CHOSEN SPECIFIC USER STORY:
-USER STORY - LOCATION OF CONTAINERS.png
+(https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/main/USER%20STORY%20-%20LOCATION%20OF%20CONTAINERS.png)
 
 
 
