@@ -27,11 +27,24 @@ The focus is on API testing using Postman and JSON server mock data.
 - Bug has been found here - during the testing of API for Location of Containers.
   [BUG REPORT VIEW](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/a41ca9b33226e4b31c4b3077988d93438caf57f2/BUG_REPORT%20API.png) 
 
-### Integration and Management of Containers
-- Simulated project focused on integrating and managing containers and other system components for a city waste department.
-
-### API Testing
+### POSTMAN ENVIRONMENT - FAKE (MOCK SERVER - JSON SERVER) API Testing 
 - Using Postman for sending HTTP requests (GET, POST, PUT, DELETE).
+- RestFul API :
+                - GET (GETTING LIST OF ALL CONTAINERS)
+                  (LINK NA SCREENSHOT)
+                -PM.TEST
+                - POST (CREATING A NEW LOCATION OF CONTAINER)
+                   (LINK NA SCREENSHOT)
+                   -PM.TEST
+                - PUT (UPDATE EXISTING LOCATION OF CONTAINER)
+                   (LINK NA SCREENSHOT)
+                   -PM.TEST
+                - DELETE (ERASING OF EXISTING LOCATION OF CONTAINER)
+                   (LINK NA SCREENSHOT)
+                    -PM.TEST
+  Json - Postman COLLECTION
+  Json - Mock Fake Data - on Json.server
+  
 
 
 
