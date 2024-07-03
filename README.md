@@ -1,6 +1,8 @@
 ## Project Overview
 This project demonstrates simulation of development and testing of Integration Management System for the City Waste Department. 
-The focus is on API testing using Postman and JSON server mock data.
+For example a Location of Containers.
+The focus is on Creating User stories, Tasks, in general Agile "evolution".
+Inside this "Agile World" I have focused on API testing using Postman and JSON server mock data.
 
 [VISUAL CONCEPT AND RELATIONS](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/main/Integration%20management%20system%20for%20city%20waste%20department.png)
 
@@ -27,9 +29,9 @@ The focus is on API testing using Postman and JSON server mock data.
 - Bug has been found here - during the testing of API for Location of Containers.
   [BUG REPORT VIEW](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/a41ca9b33226e4b31c4b3077988d93438caf57f2/BUG_REPORT%20API.png) 
 
-### POSTMAN ENVIRONMENT - FAKE (MOCK SERVER - JSON SERVER) API Testing 
-- Using Postman for sending HTTP requests (GET, POST, PUT, DELETE).
-- RestFul API :
+### INSIDE THE POSTMAN ENVIRONMENT - FAKE (MOCK SERVER - JSON SERVER) API Testing 
+- Using Postman for sending HTTP requests (GET, POST, PUT, DELETE) ON FICTIONAL SERVER.
+- RestFul API METHODS :
                 - GET (GETTING LIST OF ALL CONTAINERS)
                   (LINK NA SCREENSHOT)
                 -PM.TEST
