@@ -33,35 +33,31 @@ Inside this "Agile World" I have focused on API testing using Postman and JSON s
 
 Using Postman for sending HTTP requests (GET, POST, PUT, DELETE) ON FICTIONAL SERVER.
 
-### INSIDE THE POSTMAN ENVIRONMENT - FAKE (MOCK SERVER - JSON SERVER) API Testing
-
-Using Postman for sending HTTP requests (GET, POST, PUT, DELETE) ON FICTIONAL SERVER.
-
 #### RestFul API METHODS:
 
 - **GET (GETTING LIST OF ALL CONTAINERS)**
-  [GET All Containers](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/01ab872a4665a446efbd7a84da8af4e4666c1de5/get%20request%20all%20containers.png)
-[GET All Containers PM.TEST](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/01ab872a4665a446efbd7a84da8af4e4666c1de5/get%20request%20all%20containers%20-tests.png)
+  - [GET All Containers](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/01ab872a4665a446efbd7a84da8af4e4666c1de5/get%20request%20all%20containers.png)
+  - [GET All Containers PM.TEST](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/01ab872a4665a446efbd7a84da8af4e4666c1de5/get%20request%20all%20containers%20-tests.png)
 
 - **GET (GETTING LIST OF EMPTIED CONTAINERS)**
-  [GET Emptied Containers](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/01ab872a4665a446efbd7a84da8af4e4666c1de5/get%20emptied%20containers.png)
-  [GET Emptied Containers PM.TEST](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/01ab872a4665a446efbd7a84da8af4e4666c1de5/get%20emptied%20requests%20-%20tests.png)
+  - [GET Emptied Containers](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/01ab872a4665a446efbd7a84da8af4e4666c1de5/get%20emptied%20containers.png)
+  - [GET Emptied Containers PM.TEST](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/01ab872a4665a446efbd7a84da8af4e4666c1de5/get%20emptied%20requests%20-%20tests.png)
 
 - **GET (GETTING LIST OF UNEMPTIED CONTAINERS)**
-  [GET Unemptied Containers](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/01ab872a4665a446efbd7a84da8af4e4666c1de5/GET%20unemptied%20containers%20-%20not%20found.png)
-  [GET Unemptied Containers PM.TEST](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/GET%20unemptied%20containers%20-%20404%20status%20not%20found.png)
+  - [GET Unemptied Containers](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/01ab872a4665a446efbd7a84da8af4e4666c1de5/GET%20unemptied%20containers%20-%20not%20found.png)
+  - [GET Unemptied Containers PM.TEST](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/GET%20unemptied%20containers%20-%20404%20status%20not%20found.png)
 
 - **POST (CREATING A NEW LOCATION OF CONTAINER)**
-  [POST Create New Container](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/POST%20request%20-%20creating%20new%20location.png)
-  [POST Create New Container PM.TEST](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/POST%20-%20creating%20new%20container-location%20-%20test.png)
+  - [POST Create New Container](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/POST%20request%20-%20creating%20new%20location.png)
+  - [POST Create New Container PM.TEST](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/POST%20-%20creating%20new%20container-location%20-%20test.png)
 
 - **PUT (UPDATE EXISTING LOCATION OF CONTAINER)**
-  [PUT Update Container](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/PUT-%20updating%20existing%20container%20id%204-status%20on%20emptied.png)
-  [PUT Update Container PM.TEST](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/PUT%20-%20updating%20existing%20container%20on%20status%20emptied%20-%20test.png)
+  - [PUT Update Container](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/PUT-%20updating%20existing%20container%20id%204-status%20on%20emptied.png)
+  - [PUT Update Container PM.TEST](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/PUT%20-%20updating%20existing%20container%20on%20status%20emptied%20-%20test.png)
 
 - **DELETE (ERASING OF EXISTING LOCATION OF CONTAINER)**
-  [DELETE Container](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/DELETE%20-%20erasing%20existing%20container%20with%20id%205.png)
-  [DELETE Container PM.TEST](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/DELETE%20-erasing%20an%20existing%20container%205%20-%20test.png)
+  - [DELETE Container](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/DELETE%20-%20erasing%20existing%20container%20with%20id%205.png)
+  - [DELETE Container PM.TEST](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/DELETE%20-erasing%20an%20existing%20container%205%20-%20test.png)
 
 ### Json - Postman COLLECTION
 [JSON FORMAT FOR IMPORTING](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/WASTE%20MANAGEMENT%20API.postman_collection.json)
@@ -73,10 +69,4 @@ Using Postman for sending HTTP requests (GET, POST, PUT, DELETE) ON FICTIONAL SE
 [RUN RESULTS](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/RUN%20RESULTS%20IN%20POSTMAN.png)
 
 ### RUN RESULTS THROUGH NEWMAN TOOL IN COMMAND LINE
-[RUN RESULTS](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/main/RUNNING%20COLLECTION%20THROUGH%20NEWMAN%20IN%20CMD.png)
-
-## Project Goals
-- Effectively monitor the waste management situation.
-- Establish an efficient monitoring mechanism for the waste situation from the perspective of the Department of Sanitation employees.
-- Implement agile management and control in the city's waste sector.
-- The core of the system is a localization map of Banska Stiavnica, featuring a live tracking mode for waste collection vehicles.
+[RUN RESULTS](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/main/R
