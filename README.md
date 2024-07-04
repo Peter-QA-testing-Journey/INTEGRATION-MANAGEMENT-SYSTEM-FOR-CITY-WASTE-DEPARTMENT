@@ -6,6 +6,7 @@ Inside this "Agile World" I have focused on API testing using Postman and JSON s
 
 [VISUAL CONCEPT AND RELATIONS](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/main/Integration%20management%20system%20for%20city%20waste%20department.png)
 
+[GET REQUEST](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/b9c76c65f9c97b272eeb20287770cd09abd4e18f/ffff.png)
 ## The project includes:
 
 ### User Stories in ScrumDesk
