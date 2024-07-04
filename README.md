@@ -29,25 +29,31 @@ Inside this "Agile World" I have focused on API testing using Postman and JSON s
 - Bug has been found here - during the testing of API for Location of Containers.
   [BUG REPORT VIEW](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/main/BUG%20REPORT.png) 
 
-### INSIDE THE POSTMAN ENVIRONMENT - FAKE (MOCK SERVER - JSON SERVER) API Testing 
-- Using Postman for sending HTTP requests (GET, POST, PUT, DELETE) ON FICTIONAL SERVER.
-- RestFul API METHODS :
-                - GET (GETTING LIST OF ALL CONTAINERS)
-                  (LINK NA SCREENSHOT)
-                -PM.TEST
-                - POST (CREATING A NEW LOCATION OF CONTAINER)
-                   (LINK NA SCREENSHOT)
-                   -PM.TEST
-                - PUT (UPDATE EXISTING LOCATION OF CONTAINER)
-                   (LINK NA SCREENSHOT)
-                   -PM.TEST
-                - DELETE (ERASING OF EXISTING LOCATION OF CONTAINER)
-                   (LINK NA SCREENSHOT)
-                    -PM.TEST
-  Json - Postman COLLECTION
-  Json - Mock Fake Data - on Json.server
-  
+### INSIDE THE POSTMAN ENVIRONMENT - FAKE (MOCK SERVER - JSON SERVER) API Testing
 
+Using Postman for sending HTTP requests (GET, POST, PUT, DELETE) ON FICTIONAL SERVER.
+
+#### RestFul API METHODS:
+
+- **GET (GETTING LIST OF ALL CONTAINERS)**
+  - ![GET All Containers](link_to_get_all_containers_screenshot)
+  - ![GET All Containers PM.TEST](link_to_get_all_containers_pm_test_screenshot)
+
+- **POST (CREATING A NEW LOCATION OF CONTAINER)**
+  - ![POST Create New Container](link_to_post_create_new_container_screenshot)
+  - ![POST Create New Container PM.TEST](link_to_post_create_new_container_pm_test_screenshot)
+
+- **PUT (UPDATE EXISTING LOCATION OF CONTAINER)**
+  - ![PUT Update Container](link_to_put_update_container_screenshot)
+  - ![PUT Update Container PM.TEST](link_to_put_update_container_pm_test_screenshot)
+
+- **DELETE (ERASING OF EXISTING LOCATION OF CONTAINER)**
+  - ![DELETE Container](link_to_delete_container_screenshot)
+  - ![DELETE Container PM.TEST](link_to_delete_container_pm_test_screenshot)
+
+### Json - Postman COLLECTION
+
+### Json - Mock Fake Data - on Json.server
 
 
 ## Project Goals
