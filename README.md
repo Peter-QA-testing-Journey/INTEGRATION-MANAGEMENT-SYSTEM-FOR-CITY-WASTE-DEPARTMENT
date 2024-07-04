@@ -33,11 +33,23 @@ Inside this "Agile World" I have focused on API testing using Postman and JSON s
 
 Using Postman for sending HTTP requests (GET, POST, PUT, DELETE) ON FICTIONAL SERVER.
 
+### INSIDE THE POSTMAN ENVIRONMENT - FAKE (MOCK SERVER - JSON SERVER) API Testing
+
+Using Postman for sending HTTP requests (GET, POST, PUT, DELETE) ON FICTIONAL SERVER.
+
 #### RestFul API METHODS:
 
 - **GET (GETTING LIST OF ALL CONTAINERS)**
   - ![GET All Containers](link_to_get_all_containers_screenshot)
   - ![GET All Containers PM.TEST](link_to_get_all_containers_pm_test_screenshot)
+
+- **GET (GETTING LIST OF EMPTIED CONTAINERS)**
+  - ![GET Emptied Containers](link_to_get_emptied_containers_screenshot)
+  - ![GET Emptied Containers PM.TEST](link_to_get_emptied_containers_pm_test_screenshot)
+
+- **GET (GETTING LIST OF UNEMPTIED CONTAINERS)**
+  - ![GET Unemptied Containers](link_to_get_unemptied_containers_screenshot)
+  - ![GET Unemptied Containers PM.TEST](link_to_get_unemptied_containers_pm_test_screenshot)
 
 - **POST (CREATING A NEW LOCATION OF CONTAINER)**
   - ![POST Create New Container](link_to_post_create_new_container_screenshot)
@@ -50,6 +62,10 @@ Using Postman for sending HTTP requests (GET, POST, PUT, DELETE) ON FICTIONAL SE
 - **DELETE (ERASING OF EXISTING LOCATION OF CONTAINER)**
   - ![DELETE Container](link_to_delete_container_screenshot)
   - ![DELETE Container PM.TEST](link_to_delete_container_pm_test_screenshot)
+
+### Json - Postman COLLECTION
+
+### Json - Mock Fake Data - on Json.server
 
 ### Json - Postman COLLECTION
 
