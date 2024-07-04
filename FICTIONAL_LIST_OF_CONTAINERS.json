@@ -1,0 +1,48 @@
+{
+  "containers": [
+    {
+      "id": "1",
+      "location": "Park",
+      "status": "unemptied"
+    },
+    {
+      "id": "2",
+      "location": "Street",
+      "status": "emptied"
+    },
+    {
+      "id": "3",
+      "location": "Mall",
+      "status": "unemptied"
+    },
+    {
+      "status": "emptied",
+      "id": "4"
+    },
+    {
+      "id": "6",
+      "location": "Hospital",
+      "status": "unemptied"
+    },
+    {
+      "id": "7",
+      "location": "Library",
+      "status": "emptied"
+    },
+    {
+      "id": "8",
+      "location": "Stadium",
+      "status": "unemptied"
+    },
+    {
+      "id": "9",
+      "location": "Supermarket",
+      "status": "emptied"
+    },
+    {
+      "id": "10",
+      "location": "Airport",
+      "status": "unemptied"
+    }
+  ]
+}

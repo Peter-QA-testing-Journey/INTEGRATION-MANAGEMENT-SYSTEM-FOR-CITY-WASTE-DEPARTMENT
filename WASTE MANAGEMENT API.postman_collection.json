@@ -1,0 +1,283 @@
+{
+	"info": {
+		"_postman_id": "b4afb52e-a826-445f-89cd-00f631953da9",
+		"name": "WASTE MANAGEMENT API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "31067501"
+	},
+	"item": [
+		{
+			"name": "Get All Containers",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"// Test to check if the status code is 200 (OK)\r",
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"\r",
+							"// Test to check if the response is an array\r",
+							"pm.test(\"Response is array\", function () {\r",
+							"    pm.expect(pm.response.json()).to.be.an('array');\r",
+							"});\r",
+							"\r",
+							"// Test to check if the array length is 10\r",
+							"pm.test(\"Array length is 10\", function () {\r",
+							"    pm.expect(pm.response.json().length).to.eql(10);\r",
+							"});\r",
+							""
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/containers",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"containers"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Emptied Containers",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"// Test to check if the status code is 200 (OK)\r",
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"\r",
+							"// Test to check if all items in the response have the status 'emptied'\r",
+							"pm.test(\"All items have status 'emptied'\", function () {\r",
+							"    const jsonData = pm.response.json();\r",
+							"    jsonData.forEach(item => {\r",
+							"        pm.expect(item.status).to.eql(\"emptied\");\r",
+							"    });\r",
+							"});\r",
+							"\r",
+							"// Test to check if the array length is 4\r",
+							"pm.test(\"Array length is 4\", function () {\r",
+							"    pm.expect(pm.response.json().length).to.eql(4);\r",
+							"});\r",
+							""
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/containers?status=emptied",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"containers"
+					],
+					"query": [
+						{
+							"key": "status",
+							"value": "emptied"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Unemptied Containers",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"// Test to check if there are 6 items with status 'unemptied'\r",
+							"pm.test(\"There are 6 items with status 'unemptied'\", function () {\r",
+							"    const jsonData = pm.response.json();\r",
+							"    const unemptiedItems = jsonData.filter(item => item.status === 'unemptied');\r",
+							"    pm.expect(unemptiedItems).to.have.length(6);\r",
+							"});\r",
+							""
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/containerzs?status=unemptied",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"containerzs"
+					],
+					"query": [
+						{
+							"key": "status",
+							"value": "unemptied"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CREATING new container/location",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"// Test to check if the response has the correct id\r",
+							"pm.test(\"Response has correct id\", function () {\r",
+							"    pm.expect(pm.response.json().id).to.eql(11);\r",
+							"});\r",
+							"\r",
+							"// Test to check if the response has the correct location\r",
+							"pm.test(\"Response has correct location\", function () {\r",
+							"    pm.expect(pm.response.json().location).to.eql(\"New Park\");\r",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"id\": 11,\r\n  \"location\": \"New Park\",\r\n  \"status\": \"unemptied\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/containers",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"containers"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "UPDATING existing item-container",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"\r",
+							"pm.test(\"Status is updated to emptied\", function () {\r",
+							"    pm.expect(pm.response.json().status).to.eql(\"emptied\");\r",
+							"});\r",
+							""
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"status\": \"emptied\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/containers/4",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"containers",
+						"4"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Erasing the container 5 from list of containers",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"// Make a GET request to check if the container is deleted\r",
+							"pm.sendRequest('http://localhost:3000/containers/5', function (err, response) {\r",
+							"    pm.test(\"Container is deleted\", function () {\r",
+							"        pm.expect(response).to.have.status(404);\r",
+							"    });\r",
+							"});\r",
+							""
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/containers/5",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"containers",
+						"5"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
