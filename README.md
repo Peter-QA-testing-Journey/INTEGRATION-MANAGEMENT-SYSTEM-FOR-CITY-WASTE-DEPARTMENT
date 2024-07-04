@@ -6,7 +6,6 @@ Inside this "Agile World" I have focused on API testing using Postman and JSON s
 
 [VISUAL CONCEPT AND RELATIONS](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/main/Integration%20management%20system%20for%20city%20waste%20department.png)
 
-[GET REQUEST](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/b9c76c65f9c97b272eeb20287770cd09abd4e18f/ffff.png)
 ## The project includes:
 
 ### User Stories in ScrumDesk
@@ -23,12 +22,12 @@ Inside this "Agile World" I have focused on API testing using Postman and JSON s
 ### Test Case
 - Detailed test case validating the functionality of the system for this specific user story.
 - API for Location of Containers has been tested here:
-  [TEST CASE VIEW](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/main/TEST_CASE%20API.png)
+  [TEST CASE VIEW](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/main/TEST%20CASE%20API.png)
 
 ### Bug Report
 - Documentation of a discovered bug and its impact on the system.
 - Bug has been found here - during the testing of API for Location of Containers.
-  [BUG REPORT VIEW](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/a41ca9b33226e4b31c4b3077988d93438caf57f2/BUG_REPORT%20API.png) 
+  [BUG REPORT VIEW](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/main/BUG%20REPORT.png) 
 
 ### INSIDE THE POSTMAN ENVIRONMENT - FAKE (MOCK SERVER - JSON SERVER) API Testing 
 - Using Postman for sending HTTP requests (GET, POST, PUT, DELETE) ON FICTIONAL SERVER.
