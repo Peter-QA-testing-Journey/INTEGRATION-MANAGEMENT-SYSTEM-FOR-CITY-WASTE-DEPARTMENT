@@ -40,7 +40,7 @@ Using Postman for sending HTTP requests (GET, POST, PUT, DELETE) ON FICTIONAL SE
 #### RestFul API METHODS:
 
 - **GET (GETTING LIST OF ALL CONTAINERS)**
-  - ![GET All Containers](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/01ab872a4665a446efbd7a84da8af4e4666c1de5/get%20request%20all%20containers.png)
+  [GET All Containers](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/01ab872a4665a446efbd7a84da8af4e4666c1de5/get%20request%20all%20containers.png)
   - ![GET All Containers PM.TEST](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/01ab872a4665a446efbd7a84da8af4e4666c1de5/get%20request%20all%20containers%20-tests.png)
 
 - **GET (GETTING LIST OF EMPTIED CONTAINERS)**
