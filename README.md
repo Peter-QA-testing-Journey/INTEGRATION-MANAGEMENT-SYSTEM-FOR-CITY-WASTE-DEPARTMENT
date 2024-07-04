@@ -1,6 +1,6 @@
 ## Project Overview
 This project demonstrates simulation of development and testing of WASTE MANAGEMENT SYSTEM FOR CITY BANSKA STIAVNICA. 
-For example a Location of Containers.
+For example, a Location of Containers.
 The focus is on Creating User stories, Tasks, in general Agile "evolution".
 Inside this "Agile World" I have focused on API testing using Postman and JSON server mock data.
 
@@ -53,7 +53,7 @@ Using Postman for sending HTTP requests (GET, POST, PUT, DELETE) ON FICTIONAL SE
 
 - **POST (CREATING A NEW LOCATION OF CONTAINER)**
   - ![POST Create New Container](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/POST%20request%20-%20creating%20new%20location.png)
-  - ![POST Create New Container PM.TEST](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/POST%20-%20creating%20new%20container-location%20-%20test.png))
+  - ![POST Create New Container PM.TEST](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/POST%20-%20creating%20new%20container-location%20-%20test.png)
 
 - **PUT (UPDATE EXISTING LOCATION OF CONTAINER)**
   - ![PUT Update Container](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/PUT-%20updating%20existing%20container%20id%204-status%20on%20emptied.png)
@@ -74,7 +74,6 @@ Using Postman for sending HTTP requests (GET, POST, PUT, DELETE) ON FICTIONAL SE
 
 ### RUN RESULTS THROUGH NEWMAN TOOL IN COMMAND LINE
 [RUN RESULTS](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/main/RUNNING%20COLLECTION%20THROUGH%20NEWMAN%20IN%20CMD.png)
-
 
 ## Project Goals
 - Effectively monitor the waste management situation.
