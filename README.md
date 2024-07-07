@@ -16,7 +16,7 @@ API testing using Postman and JSON server mock data.
 - Chosen specific USER STORY:
   - [SCRUMDESK - CHOSEN USER STORY in DETAILED](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/main/USER%20STORY%20-%20LOCATION%20OF%20CONTAINERS.png)
 
-### Task - TEST CASE in 'Done' Section - SCRUM/KANBAN BOARD (TO-DO / IN PROGRESS / DONE)
+### Task - TEST CASE in 'Done' Section - KANBAN BOARD (TO-DO / IN PROGRESS / DONE)
 - Completed task related to TEST CASE for API testing regarding the user story, including HTTP requests and simple tests.
   - [KANBAN BOARD OF TASKS](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/32c1308b031d39be3d4bc5a045d35d918f9aab63/KANBAN%20BOARD%20AND%20TEST%20API%20IN%20DONE.png)
 
