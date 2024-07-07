@@ -73,7 +73,7 @@ Using Postman for sending HTTP requests (GET, POST, PUT, DELETE) ON FICTIONAL SE
 - [RUN RESULTS](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/main/RUNNING%20COLLECTION%20THROUGH%20NEWMAN%20IN%20CMD.png)
 
 ## Project Goals
-- Demonstrating the API testing
+- Demonstrating the API testing and Agile process with tool SCRUMDESK.
 - Effectively monitor the waste management situation.
 - Establish an efficient monitoring mechanism for the waste situation from the perspective of Waste  Department employees and Citizens.
 
