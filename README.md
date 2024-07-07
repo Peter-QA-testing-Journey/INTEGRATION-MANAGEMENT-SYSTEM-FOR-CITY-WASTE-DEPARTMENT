@@ -2,7 +2,7 @@
 This project demonstrates simulation of development and testing of WASTE MANAGEMENT SYSTEM FOR CITY. 
 The focus is on Creating User stories, Tasks, in general Agile "evolution".
 Inside this "Agile World" I have focused on CHOSEN USER STORY - LOCATION OF CONTAINERS 
-and the TASK with
+and the TASK TEST CASE with
 API testing using Postman and JSON server mock data.
 
 [VISUAL CONCEPT AND RELATIONS](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/main/Integration%20management%20system%20for%20city%20waste%20department.png)
