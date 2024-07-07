@@ -1,8 +1,8 @@
 ## Project Overview
-This project demonstrates simulation of development and testing of WASTE MANAGEMENT SYSTEM FOR CITY BANSKA STIAVNICA. 
-For example, a Location of Containers.
+This project demonstrates simulation of development and testing of WASTE MANAGEMENT SYSTEM FOR CITY. 
 The focus is on Creating User stories, Tasks, in general Agile "evolution".
-Inside this "Agile World" I have focused on API testing using Postman and JSON server mock data.
+Inside this "Agile World" I have focused on CHOSEN USER STORY - LOCATION OF CONTAINERS 
+API testing using Postman and JSON server mock data.
 
 [VISUAL CONCEPT AND RELATIONS](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/main/Integration%20management%20system%20for%20city%20waste%20department.png)
 
@@ -17,7 +17,7 @@ Inside this "Agile World" I have focused on API testing using Postman and JSON s
 
 ### Task - TEST CASE in 'Done' Section - SCRUM/KANBAN BOARD (TO-DO / IN PROGRESS / DONE)
 - Completed task related to TEST CASE for API testing regarding the user story, including HTTP requests and simple tests.
-  - [KANBAN/SCRUM BOARD OF TASKS](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/32c1308b031d39be3d4bc5a045d35d918f9aab63/KANBAN%20BOARD%20AND%20TEST%20API%20IN%20DONE.png)
+  - [KANBAN BOARD OF TASKS](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/32c1308b031d39be3d4bc5a045d35d918f9aab63/KANBAN%20BOARD%20AND%20TEST%20API%20IN%20DONE.png)
 
 ### Test Case
 - Detailed test case validating the functionality of the system for this specific user story.
