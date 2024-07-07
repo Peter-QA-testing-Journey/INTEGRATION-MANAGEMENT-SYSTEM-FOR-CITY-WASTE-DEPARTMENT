@@ -73,7 +73,7 @@ Using Postman for sending HTTP requests (GET, POST, PUT, DELETE) ON FICTIONAL SE
 - [RUN RESULTS](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/main/RUNNING%20COLLECTION%20THROUGH%20NEWMAN%20IN%20CMD.png)
 
 ## Project Goals
+- Demonstrating the API testing
 - Effectively monitor the waste management situation.
-- Establish an efficient monitoring mechanism for the waste situation from the perspective of the Department of Sanitation employees.
-- Implement agile management and control in the city's waste sector.
-- The core of the system is a localization map of Banska Stiavnica, featuring a live tracking mode for waste collection vehicles.
+- Establish an efficient monitoring mechanism for the waste situation from the perspective of Waste  Department employees and Citizens.
+
