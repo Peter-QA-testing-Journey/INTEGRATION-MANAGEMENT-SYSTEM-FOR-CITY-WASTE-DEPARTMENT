@@ -10,6 +10,9 @@ jobs:
       - name: Install Postman CLI
         run: |
           curl -o- "https://dl-cli.pstmn.io/install/linux64.sh" | sh
+      - name: Download Postman Collection
+        run: |
+          curl -o waste_management_api.postman_collection.json https://raw.githubusercontent.com/Peter-QA-testing-Journey/POSTMAN-API--PRACTICE--INTEGRATION-SYSTEM-FOR-WASTE-IN-CITY/main/WASTE%20MANAGEMENT%20API.postman_collection.json
       - name: Run API tests
         run: |
-          postman collection run "https://raw.githubusercontent.com/Peter-QA-testing-Journey/POSTMAN-API--PRACTICE--INTEGRATION-SYSTEM-FOR-WASTE-IN-CITY/main/WASTE%20MANAGEMENT%20API.postman_collection.json"
+          postman collection run waste_management_api.postman_collection.json -e "3526254-706c69f6-24c1-4ef5-88ad-42b676c44f46"
