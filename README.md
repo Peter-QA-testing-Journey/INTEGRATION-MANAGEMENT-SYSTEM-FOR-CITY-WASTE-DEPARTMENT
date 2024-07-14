@@ -1,4 +1,19 @@
-## Project Overview
+# RUN AND INSTALLATION:
+
+### Importing Postman Collection in CI/CD
+Json - Postman COLLECTION
+[JSON FORMAT FOR IMPORTING](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/WASTE%20MANAGEMENT%20API.postman_collection.json)
+
+Install Newman (Postman's CLI):
+npm install -g newman
+
+### Run the Postman collection:
+newman run GIVEN--postman-collection.json
+
+### Json - Mock Fake Data - list of containers for Json SERVER
+[lIST OF MOCK DATA FOR JSON SERVER](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/FICTIONAL_LIST_OF_CONTAINERS.json)## Project Overview
+
+  
 This project demonstrates simulation of development and testing of WASTE MANAGEMENT SYSTEM FOR CITY. 
 The focus is on Creating User stories, Tasks, in general Agile "evolution".
 Inside this "Agile World" I have focused on CHOSEN USER STORY - LOCATION OF CONTAINERS 
