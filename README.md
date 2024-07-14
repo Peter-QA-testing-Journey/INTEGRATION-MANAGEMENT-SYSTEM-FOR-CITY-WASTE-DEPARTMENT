@@ -32,6 +32,19 @@ API testing using Postman and JSON server mock data.
 
 ### INSIDE THE POSTMAN ENVIRONMENT - FAKE (MOCK SERVER - JSON SERVER) API Testing
 
+
+### Json - Postman COLLECTION
+- [JSON FORMAT FOR IMPORTING](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/WASTE%20MANAGEMENT%20API.postman_collection.json)
+
+### Json - Mock Fake Data - list of containers for Json SERVER
+- [lIST OF MOCK DATA FOR JSON SERVER](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/FICTIONAL_LIST_OF_CONTAINERS.json)
+
+### RUN RESULTS DIRECTLY IN POSTMAN
+- [RUN RESULTS](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/RUN%20RESULTS%20IN%20POSTMAN.png)
+
+### RUN RESULTS THROUGH NEWMAN TOOL IN COMMAND LINE
+- [RUN RESULTS](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/main/RUNNING%20COLLECTION%20THROUGH%20NEWMAN%20IN%20CMD.png)
+
 Using Postman for sending HTTP requests (GET, POST, PUT, DELETE) ON FICTIONAL SERVER.
 
 #### RestFul API METHODS:
@@ -60,17 +73,6 @@ Using Postman for sending HTTP requests (GET, POST, PUT, DELETE) ON FICTIONAL SE
   - [DELETE Container](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/DELETE%20-%20erasing%20existing%20container%20with%20id%205.png)
   - [DELETE Container PM.TEST](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/DELETE%20-erasing%20an%20existing%20container%205%20-%20test.png)
 
-### Json - Postman COLLECTION
-- [JSON FORMAT FOR IMPORTING](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/WASTE%20MANAGEMENT%20API.postman_collection.json)
-
-### Json - Mock Fake Data - list of containers for Json SERVER
-- [lIST OF MOCK DATA FOR JSON SERVER](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/FICTIONAL_LIST_OF_CONTAINERS.json)
-
-### RUN RESULTS DIRECTLY IN POSTMAN
-- [RUN RESULTS](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/RUN%20RESULTS%20IN%20POSTMAN.png)
-
-### RUN RESULTS THROUGH NEWMAN TOOL IN COMMAND LINE
-- [RUN RESULTS](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/main/RUNNING%20COLLECTION%20THROUGH%20NEWMAN%20IN%20CMD.png)
 
 ## Project Goals
 - Demonstrating the API testing and Agile process with tool SCRUMDESK.
