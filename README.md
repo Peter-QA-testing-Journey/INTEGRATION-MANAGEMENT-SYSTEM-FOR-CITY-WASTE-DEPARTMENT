@@ -23,20 +23,20 @@ Inside this "Agile World" I have focused on CHOSEN USER STORY - LOCATION OF CONT
 and the TASK TEST CASE with
 API testing using Postman and JSON server mock data.
 
-[VISUAL CONCEPT AND RELATIONS](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/main/Integration%20management%20system%20for%20city%20waste%20department.png)
+[VISUAL CONCEPT AND RELATIONS](https://github.com/Peter-QA-testing-Journey/POSTMAN-API--PRACTICE--INTEGRATION-SYSTEM-FOR-WASTE-IN-CITY/blob/main/AGILE%20SCRUMDESK%20SCREENSHOTS/Integration%20management%20system%20for%20city%20waste%20department.png)
 
 ## The project includes:
 
 ### User Stories in ScrumDesk
 - Specific requirements and features needed for the system: 
-  - [SCRUMDESK - STORY MAP](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/b0dd3d496abdbf8711f54900598f0d14c9215c82/MY%20USER%20STORIES.png)
+  - [SCRUMDESK - STORY MAP](https://github.com/Peter-QA-testing-Journey/POSTMAN-API--PRACTICE--INTEGRATION-SYSTEM-FOR-WASTE-IN-CITY/blob/main/AGILE%20SCRUMDESK%20SCREENSHOTS/MY%20USER%20STORIES.png)
 
 - Chosen specific USER STORY:
-  - [SCRUMDESK - CHOSEN USER STORY in DETAILED](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/main/USER%20STORY%20-%20LOCATION%20OF%20CONTAINERS.png)
+  - [SCRUMDESK - CHOSEN USER STORY in DETAILED](https://github.com/Peter-QA-testing-Journey/POSTMAN-API--PRACTICE--INTEGRATION-SYSTEM-FOR-WASTE-IN-CITY/blob/main/AGILE%20SCRUMDESK%20SCREENSHOTS/USER%20STORY%20-%20LOCATION%20OF%20CONTAINERS.png)
 
 ### Task - TEST CASE in 'Done' Section - KANBAN BOARD (TO-DO / IN PROGRESS / DONE)
 - Completed task related to TEST CASE for API testing regarding the user story, including HTTP requests and simple tests.
-  - [KANBAN BOARD OF TASKS](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-CITY-WASTE-DEPARTMENT/blob/32c1308b031d39be3d4bc5a045d35d918f9aab63/KANBAN%20BOARD%20AND%20TEST%20API%20IN%20DONE.png)
+  - [KANBAN BOARD OF TASKS](https://github.com/Peter-QA-testing-Journey/POSTMAN-API--PRACTICE--INTEGRATION-SYSTEM-FOR-WASTE-IN-CITY/blob/main/AGILE%20SCRUMDESK%20SCREENSHOTS/KANBAN%20BOARD%20AND%20TEST%20API%20IN%20DONE.png)
 
 ### Test Case
 - Detailed test case validating the functionality of the system for this specific user story.
