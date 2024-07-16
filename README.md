@@ -11,7 +11,7 @@ npm install -g newman
 newman run GIVEN--postman-collection.json
 
 ### Json - Mock Fake Data - list of containers for Json SERVER
-[lIST OF MOCK DATA FOR JSON SERVER](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/FICTIONAL_LIST_OF_CONTAINERS.json)
+[LIST OF MOCK DATA FOR JSON SERVER](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/48b2c9dde80e70ddfdd3cf22103a5dfb991317cf/FICTIONAL_LIST_OF_CONTAINERS.json)
 
 
 # Project Overview
