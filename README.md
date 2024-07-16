@@ -41,12 +41,12 @@ API testing using Postman and JSON server mock data.
 ### Test Case
 - Detailed test case validating the functionality of the system for this specific user story.
 - API for Location of Containers has been tested here:
-  - [TEST CASE VIEW](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/main/TEST%20CASE%20API.png)
+  - [TEST CASE VIEW](https://github.com/Peter-QA-testing-Journey/POSTMAN-API--PRACTICE--INTEGRATION-SYSTEM-FOR-WASTE-IN-CITY/blob/main/TEST_CASE_AND_BUG_REPORT_DOCUMENTATION/TEST%20CASE%20API.png)
 
 ### Bug Report
 - Documentation of a discovered bug and its impact on the system.
 - Bug has been found here - during the testing of API for Location of Containers.
-  - [BUG REPORT VIEW](https://github.com/Peter-QA-testing-Journey/INTEGRATION-MANAGEMENT-SYSTEM-FOR-WASTE-IN-CITY/blob/main/BUG%20REPORT.png) 
+  - [BUG REPORT VIEW](https://github.com/Peter-QA-testing-Journey/POSTMAN-API--PRACTICE--INTEGRATION-SYSTEM-FOR-WASTE-IN-CITY/blob/main/TEST_CASE_AND_BUG_REPORT_DOCUMENTATION/BUG%20REPORT.png) 
 
 ### INSIDE THE POSTMAN ENVIRONMENT - FAKE (MOCK SERVER - JSON SERVER) API Testing
 
